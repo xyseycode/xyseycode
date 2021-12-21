@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python🐍, Linux🐧, DevOps♻️ and Cloud☁️
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on making tools in DevOps and the Cloud
-- 📫 How to reach me russeljayhernande@gmail.com
+- 📫 How to reach me russeljayhernandez@gmail.com
 
 <!---
 xyseycode/xyseycode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
